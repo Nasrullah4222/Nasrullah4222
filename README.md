@@ -32,14 +32,12 @@ JavaScript, React, Node.js, Express, Python, Jupyter, ML pipelines, REST APIs, G
 
 I enjoy building systems that connect technical depth with real user value — from AI-assisted experiences to web applications and platform thinking. The work blends product development, data experimentation, and practical engineering.
 
-## Connect
-
-- [GitHub](https://github.com/Nasrullah4222)
-- [Portfolio](https://my-portfolio-412.vercel.app)
 
 ## Current direction
 
 - AI product development
 - Full-stack engineering
+- Backend, Cybersecurity and System Design
+- Computer Vision
 - Practical ML and decision-support systems
 - Clean product experiences and maintainable architecture
